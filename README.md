@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/atinderbirsin/yt-app)
-- Live Site URL: [Live Site](https://yttube.netlify.app/)
+- Solution URL: [Solution](https://github.com/atinderbirsin/img-app)
+- Live Site URL: [Live Site](https://imgg.netlify.app/)
 
 ### Built with
 
