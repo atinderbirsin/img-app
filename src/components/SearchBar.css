@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container > form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0 auto;
+  align-items: center;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  height: 100%;
+  gap: 0.6rem;
+}
+
+label > h1 {
+  font-size: 3.2rem;
+  font-family: "Verdana";
+  font-weight: 500;
+}
+
+.input-field {
+  width: 100%;
+  font-size: 2rem;
+  border: 1px solid #777;
+  height: 2.6rem;
+  border-radius: 0.4rem;
+}

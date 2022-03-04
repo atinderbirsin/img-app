@@ -1,0 +1,27 @@
+.imgContainer {
+  width: 90%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 1.8rem;
+  grid-auto-rows: 1rem;
+}
+
+.imgContainer > div > img {
+  width: 100%;
+  object-position: center;
+}
+
+.imgContainer > div > img {
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.imgContainer > div {
+  overflow: hidden;
+  overflow-y: hidden;
+}
+
+.imgContainer > div > img:hover {
+  transform: scale(1.2);
+}
